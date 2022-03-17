@@ -26,7 +26,8 @@
 ### 视屏文件说明
 
 **本版本只含两个测试视频目录，且模型文件识别的手势为：‘不’，‘好’，‘意’，‘思’**
-其他手势视频见链接: https://pan.baidu.com/s/17sCE1QkJjNP6y0LVfClBWg?pwd=gtsr 提取码: gtsr 复制这段内容后打开百度网盘手机App，操作更方便哦
+
+其他手势视频见链接: https://pan.baidu.com/s/17sCE1QkJjNP6y0LVfClBWg?pwd=gtsr 提取码: gtsr
 
 每个手势有多个视屏文件，被包含在同一个目录内，目录命名为001-053，其命名数字代表了该手势的标签。  
 
